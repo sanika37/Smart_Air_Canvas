@@ -23,7 +23,6 @@
 * 📤 **Upload & Annotate Images**: Import images and draw on top.
 * ♿ **Accessibility-First Design**: Ideal for users with motor or speech impairments.
 * 📚 **Educational Mode**: Tailored tools for interactive learning.
-* 🎮 **Gaming & AR Ready**: Gesture-based game control prototypes included.
 
 ---
 
