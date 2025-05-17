@@ -8,6 +8,8 @@
 
 **Smart Air Canvas** is an innovative, gesture-controlled digital blackboard that transforms hand motions into powerful input mechanisms. Designed for education, accessibility, and creativity, this system leverages computer vision, deep learning, and AI-driven tools to enable users to write, draw, calculate, translate, and more — all without touching a single surface.
 
+[Watch the demo video](Demo.mp4)
+
 ---
 
 ## 🎯 Features
